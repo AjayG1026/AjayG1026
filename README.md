@@ -43,7 +43,7 @@
 > Problem solving = Mental gym.  
 > Currently improving my Data Structures and Algorithms game.
 
-📈 [My LeetCode Profile →](https://leetcode.com/u/Ajay-1026/)
+📈 [My LeetCode Profile](https://leetcode.com/u/Ajay-1026/)
 
 ---
 
